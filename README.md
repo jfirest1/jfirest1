@@ -18,12 +18,12 @@ class Attributes(Jason):
 	@staticmethod
 	def coding() -> tuple:
 		langs = {
-			'expert':   ['python'],
-			'intermediate': ['go', 'js'],
-			'learning': ['c', 'c++', 'c#', 'asm', 'java']
+			'advanced':   ['java'],
+			'intermediate': ['python'],
+			'learning': ['c', 'react']
 		}
-		specialities  = ['web/app reverse engineering', 'fullstack', 'skidding (joke)']
-		environnement = ['vscode', 'pycharm']
+		specialities  = ['fullstack']
+		environnement = ['vscode']
 		
 		return langs, specialities, environnement
 	

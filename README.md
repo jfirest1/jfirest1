@@ -45,7 +45,8 @@ class Attributes(Jason):
   </a>
 </p>
 
+<!--- 
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=jfirest1&theme=tokyonight&show_icons=true">
-</p>
-
+</p> 
+---!>

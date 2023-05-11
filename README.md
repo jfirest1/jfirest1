@@ -1,3 +1,4 @@
+<!--- 
 ```python
 class Attributes(Jason):
 	@staticmethod
@@ -37,6 +38,8 @@ class Attributes(Jason):
 		return discord, instagram, twitch, website
 
 ```
+---!>
+
 <h2 align="center">Skills </h2>
 
 <p align="center">

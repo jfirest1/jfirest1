@@ -45,7 +45,7 @@ class Attributes(Jason):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,vscode,c,python" />
+    <img src="https://skillicons.dev/icons?i=java,vscode,c,python,react" />
   </a>
 </p>
 
